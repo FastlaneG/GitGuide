@@ -32,6 +32,12 @@ code {
   font-size: 18px;
 }
 
+code:hover {
+  background-color: #4C00FF;
+  color: white;
+  font-size: 38px;
+}
+
 h3 {
   font-size: 34px;
   color: white;
